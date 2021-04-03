@@ -1,8 +1,33 @@
-## This is my nextjs testing arena:
-
-- TIP: Add a git submodule(i.e., nested github repo) via git submodule add "url_to_github_repo" path_to_directory
-
-- git submodules: https://www.catalyst.net.nz/blog/git-submodule-misunderstood-beast-or-remorseless-slavering-monster
-- Deleting falsy submodule: https://gist.github.com/myusuf3/7f645819ded92bda6677
+# This is my nextjs testing arena
 
 - This project uses yarn workspaces: So, you simply need to do `yarn` install all nested projects at once, and its superfast with yarn though.
+
+Adding a github submodule
+
+```bash
+git submodule add "github_url" directory_path
+```
+
+## How to **fix** submodule shit..?
+
+Problem: If you accidentally did a `git add .` in any of your github repo where you had some nested repository, then git automatically adds that repository as a submodule to your
+existing (parent repository) and then you don't get a live link in your github repo page.
+
+**How to FIX**
+
+Simply move your nested git repo elsewhere and do a commit to clean it for a while, and then move back the nestedGitRepo back to where it was and add it in proper way, followed by
+git commit. It looks like that:
+
+```bash
+mv someNestedGitRepo ../
+git add . && git commit -m "Fix submodule."
+# Now, move back the nestedGitRepo back to current repo and add it in proper way!
+mv ../someNestedRepo .
+git submodule add "github_url" directory_path
+# Now, you get to commit, and its done!
+git add . && git commit -m Fix submodule.
+```
+
+### Sources for git submodules
+
+- git submodules: https://www.catalyst.net.nz/blog/git-submodule-misunderstood-beast-or-remorseless-slavering-monster
