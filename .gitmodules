@@ -4,3 +4,6 @@
 [submodule "with-mongodb-mongoose"]
 	path = with-mongodb-mongoose
 	url = https://github.com/sahilrajput03/with-mongodb-mongoose
+[submodule "next-crash-course"]
+	path = next-crash-course
+	url = https://github.com/bradtraversy/next-crash-course

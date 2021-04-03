@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {\n  return \"hello!\";\n});","map":{"version":3,"sources":["/home/array/Documents/testing-nextjs-examples/bare-next/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe;AAAA,SAAM,QAAN;AAAA,CAAf","sourcesContent":["export default () => \"hello!\";\n"]},"metadata":{},"sourceType":"module"}
