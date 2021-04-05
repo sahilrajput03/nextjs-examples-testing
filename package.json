@@ -1,7 +1,0 @@
-{
-  "name": "my-workspaces-powered-project",
-  "private": true,
-  "workspaces": [
-    "*"
-  ]
-}

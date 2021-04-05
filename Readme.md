@@ -1,6 +1,6 @@
 # This is my nextjs testing arena
 
-- This project uses yarn workspaces: So, you simply need to do `yarn` install all nested projects at once, and its superfast with yarn though.
+- This project is no longer using workspaces(i.e., yarn workspaces or npm workspaces) coz they do not work well right now.
 
 Adding a github submodule
 
@@ -20,7 +20,7 @@ git commit. It looks like that:
 
 ```bash
 mv someNestedGitRepo ../
-git add . && git commit -m "Fix submodule."
+git add . && git commit -m "Remove submodule."
 # Now, move back the nestedGitRepo back to current repo and add it in proper way!
 mv ../someNestedRepo .
 git submodule add "github_url" directory_path
