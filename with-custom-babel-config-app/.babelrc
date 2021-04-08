@@ -9,9 +9,9 @@
       {
         // "Component": {"moduleName": "react", "exportName": "Component"},
         // "PropTypes": {"moduleName": "react", "exportName": "PropTypes"},
-        "l": {"moduleName": "./utility.js", "exportName": "log"},
-        "w": {"moduleName": "./utility.js", "exportName": "warn"},
-        "e": {"moduleName": "./utility.js", "exportName": "error"},
+        "l": {"moduleName": "./utility", "exportName": "log"},
+        "w": {"moduleName": "./utility", "exportName": "warn"},
+        "e": {"moduleName": "./utility", "exportName": "error"},
         "useState": {"moduleName": "react", "exportName": "useState"},
         "React": "react",
         "ReactDOM": "react-dom"
