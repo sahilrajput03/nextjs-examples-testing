@@ -1,0 +1,21 @@
+// ~sahil, Note this config can be live-reloaded, i.e., you don't need to restart dev server at all, unless you installed a new dependency.
+// ~sahil, Read more about babel config management here: https://babeljs.io/docs/en/configuration#how-babel-merges-config-items
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    // "@babel/plugin-proposal-do-expressions", // ~sahil, not interesting though.
+    [
+      "import-globals",
+      {
+        // "Component": {"moduleName": "react", "exportName": "Component"},
+        // "PropTypes": {"moduleName": "react", "exportName": "PropTypes"},
+        "l": {"moduleName": "./utility.js", "exportName": "log"},
+        "w": {"moduleName": "./utility.js", "exportName": "warn"},
+        "e": {"moduleName": "./utility.js", "exportName": "error"},
+        "useState": {"moduleName": "react", "exportName": "useState"},
+        "React": "react",
+        "ReactDOM": "react-dom"
+      }
+    ]
+  ]
+}
