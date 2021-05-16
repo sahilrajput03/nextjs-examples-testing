@@ -19,3 +19,6 @@
 [submodule "global-next-practise"]
 	path = global-next-practise
 	url = https://github.com/sahilrajput03/global-next-practise
+[submodule "blog-starter-app-nextjs"]
+	path = blog-starter-app-nextjs
+	url = https://github.com/sahilrajput03/blog-starter-app-nextjs
