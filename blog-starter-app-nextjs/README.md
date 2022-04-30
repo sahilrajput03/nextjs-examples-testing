@@ -1,6 +1,7 @@
 # README
 
-This project is deployed using `vercel.com` and the configuration to build from this nested directory from the repostiory. To see the configuration you can see the `SCREENSHOT - VERCEL.COM ~Sahil-30 April 2022.png` screenshot for that.
+This project is deployed @ https://nextjs-examples-testing.vercel.app/ using `vercel.com` and the configuration to build from this nested directory from the repostiory. To see the configuration you can see the `SCREENSHOT - VERCEL.COM ~Sahil-30 April 2022.png` screenshot for that.
+
 
 # A statically generated blog example using Next.js and Markdown
 
