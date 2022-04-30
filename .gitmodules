@@ -1,9 +1,6 @@
 [submodule "next-starter"]
 	path = next-starter
 	url = https://github.com/sahilrajput03/next-starter
-[submodule "with-mongodb-mongoose"]
-	path = with-mongodb-mongoose
-	url = https://github.com/sahilrajput03/with-mongodb-mongoose
 [submodule "api-routes-graphql"]
 	path = api-routes-graphql
 	url = https://github.com/sahilrajput03/api-routes-graphql
