@@ -1,9 +1,6 @@
 [submodule "next-starter"]
 	path = next-starter
 	url = https://github.com/sahilrajput03/next-starter
-[submodule "api-routes-graphql"]
-	path = api-routes-graphql
-	url = https://github.com/sahilrajput03/api-routes-graphql
 [submodule "with-typescript-graphql"]
 	path = with-typescript-graphql
 	url = https://github.com/sahilrajput03/with-typescript-graphql
