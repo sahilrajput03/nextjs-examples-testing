@@ -4,6 +4,3 @@
 [submodule "with-typescript-graphql"]
 	path = with-typescript-graphql
 	url = https://github.com/sahilrajput03/with-typescript-graphql
-[submodule "global-next-practise"]
-	path = global-next-practise
-	url = https://github.com/sahilrajput03/global-next-practise
