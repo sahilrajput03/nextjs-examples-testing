@@ -1,0 +1,5 @@
+# This fragment can be imported in other files, e.g., `viewer.graphql` file.
+fragment Partial on User {
+	id
+	name
+}

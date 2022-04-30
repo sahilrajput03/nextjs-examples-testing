@@ -1,0 +1,11 @@
+# This is the typeDefs, you get to modify this only.
+type Query {
+	viewer: User!
+	person: Man!
+	viewer3: Int!
+	viewer4: Int
+}
+
+type Mutation {
+	updateName(name: String!): User!
+}

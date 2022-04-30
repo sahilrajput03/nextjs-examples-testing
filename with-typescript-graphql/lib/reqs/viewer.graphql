@@ -1,0 +1,29 @@
+# import Partial from './partial.graphql'
+# **
+# This file is for creating frontend usage react hooks for ready-made
+# hooks for fetching and mutation, yo!
+query Viewer {
+	viewer {
+		...Partial
+		status
+	}
+}
+# Important note, follow the name convention i.e., query operation name should be same as query name.
+query Person {
+	person {
+		hands
+		legs
+	}
+}
+
+query Viewer3 {
+	viewer3
+}
+
+mutation UpdateName($name: String!) {
+	updateName(name: $name) {
+		id
+		name
+		status
+	}
+}

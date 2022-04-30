@@ -1,0 +1,11 @@
+# This file is for adding custom types used in the `type-defs.graphqls` file.
+type User {
+	id: ID!
+	name: String!
+	status: String!
+}
+
+type Man {
+	hands: Int
+	legs: Int
+}
