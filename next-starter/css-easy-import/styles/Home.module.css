@@ -1,0 +1,10 @@
+/* This file is imported in index.js file. */
+.container {
+  color: green;
+  background: darkorange;
+  height: 100%;
+}
+
+body {
+  background: lightcoral;
+}

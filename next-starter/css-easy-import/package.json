@@ -1,0 +1,20 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon -q -e config.js -x 'npm run dev:old'",
+    "dev:old": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.9",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "@zeit/next-css": "^1.0.1"
+  }
+}
