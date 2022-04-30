@@ -7,9 +7,6 @@
 [submodule "next-crash-course"]
 	path = next-crash-course
 	url = https://github.com/bradtraversy/next-crash-course
-[submodule "next-netlify-starter"]
-	path = next-netlify-starter
-	url = https://github.com/sahilrajput03/next-netlify-starter
 [submodule "api-routes-graphql"]
 	path = api-routes-graphql
 	url = https://github.com/sahilrajput03/api-routes-graphql
