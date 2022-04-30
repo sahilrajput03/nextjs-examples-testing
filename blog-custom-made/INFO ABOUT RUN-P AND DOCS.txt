@@ -1,0 +1,6 @@
+•It works only (multiple scripts)if you make it run via command prompt, and also I have installed it globally via yarn.
+•If you use npm, the running scrips won't exit gracefully.
+•run-p is a shorthand for npm-run-all --parallel script1Name script2Name
+• For documentation about `run-p` : 
+Visit: https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/run-p.md
+• 
