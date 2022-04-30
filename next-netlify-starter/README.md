@@ -1,6 +1,8 @@
 # My do's
 
-Browse site @ https://nifty-darwin-aec8ea.netlify.app/
+Browse site @ https://tangerine-centaur-bbc778.netlify.app/
+
+For the setting to get our build from this project folder not from the repository root we have set the setttings for it. To see those settings you can see the screenshot in this same folder i.e., `./SCREENSHOT~Sahil-30 April 2022.png`. 
 
 This project has additionally 1. enabled cors + 2. added target property to next.config.js file so as to fix deploy errors in netlify! Rest it works all fantastic!!
 
