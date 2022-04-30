@@ -1,3 +1,7 @@
+# README
+
+This project is deployed using `vercel.com` and the configuration to build from this nested directory from the repostiory. To see the configuration you can see the `SCREENSHOT - VERCEL.COM ~Sahil-30 April 2022.png` screenshot for that.
+
 # A statically generated blog example using Next.js and Markdown
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
