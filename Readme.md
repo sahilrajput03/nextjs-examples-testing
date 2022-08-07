@@ -91,3 +91,5 @@ yarn start
 ## Disable ssr on nextjs page
 
 Source: https://stackoverflow.com/a/53191080/10012446
+
+Building SPA with `nextjs` and `react-router-dom`: Amazing [Article](https://colinhacks.com/essays/building-a-spa-with-nextjs)
