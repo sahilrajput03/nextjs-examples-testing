@@ -86,3 +86,8 @@ yarn create next-app --example with-expo-typescript with-expo-typescript-app
 yarn dev
 yarn start
 ```
+
+
+## Disable ssr on nextjs page
+
+Source: https://stackoverflow.com/a/53191080/10012446
