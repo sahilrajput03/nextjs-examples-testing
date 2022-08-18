@@ -1,6 +1,6 @@
 # My Nextjs testing arena
 
-- Making use of client side libraries to work with nextjs setup:
+- Making use of client side libraries to work with nextjs setup [source](https://nextjs.org/docs/advanced-features/dynamic-import#with-external-libraries):
 
 ![image](https://user-images.githubusercontent.com/31458531/185347247-bfe08b56-df26-4d97-9b40-aa25e2dc2094.png)
 
