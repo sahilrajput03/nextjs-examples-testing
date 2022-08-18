@@ -1,5 +1,10 @@
 # My Nextjs testing arena
 
+- Making use of client side libraries to work with nextjs setup:
+
+![image](https://user-images.githubusercontent.com/31458531/185347247-bfe08b56-df26-4d97-9b40-aa25e2dc2094.png)
+
+
 ## [Next.js](https://nextjs.org/)
 
 - create-next-app - [Github](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [Article in Docs](https://nextjs.org/docs/api-reference/create-next-app)
