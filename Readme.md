@@ -1,5 +1,9 @@
 # My Nextjs testing arena
 
+- Use `useSWR` in nextjs (23k* on github):
+
+![image](https://user-images.githubusercontent.com/31458531/185575633-599d911b-c76d-4d25-8a1c-6529d4372fb0.png)
+
 - Making use of client side libraries to work with nextjs setup [source](https://nextjs.org/docs/advanced-features/dynamic-import#with-external-libraries):
 
 ![image](https://user-images.githubusercontent.com/31458531/185347247-bfe08b56-df26-4d97-9b40-aa25e2dc2094.png)
