@@ -1,6 +1,12 @@
 # My Nextjs testing arena
 
+## YO! We can run multiple debugger i.e,. frontend and backend
+
+![image](https://user-images.githubusercontent.com/31458531/185749877-762ee0e5-583b-4993-9acf-95c02ea3f3cc.png)
+
 - Use `useSWR` in nextjs (23k* on github):
+
+**ALERT: PLEASE USE `react-query` instead of this**
 
 ![image](https://user-images.githubusercontent.com/31458531/185575633-599d911b-c76d-4d25-8a1c-6529d4372fb0.png)
 
