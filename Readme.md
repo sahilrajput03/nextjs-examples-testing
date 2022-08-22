@@ -1,5 +1,9 @@
 # My Nextjs testing arena
 
+## Checking development and production mode in nextjs
+
+![image](https://user-images.githubusercontent.com/31458531/185982278-9f37a150-f777-4fe9-9fdc-afb06aabe9d0.png)
+
 ## You can only give height, width to an nextjs `<Image />` tag like that:
 
 *Disclaimer: `width` and `height` property given directly to `<Image height='' width='' />` doesn't work in my experience. ~Sahil
