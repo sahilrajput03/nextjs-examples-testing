@@ -1,5 +1,12 @@
 # My Nextjs testing arena
 
+## You can only give height, width to an nextjs `<Image />` tag like that:
+
+*Disclaimer: `width` and `height` property given directly to `<Image height='' width='' />` doesn't work in my experience. ~Sahil
+
+![image](https://user-images.githubusercontent.com/31458531/185975784-c0297c80-54ca-4068-b400-1caefa5b5ba7.png)
+
+
 ## YO! We can run multiple debugger i.e,. frontend and backend
 
 ![image](https://user-images.githubusercontent.com/31458531/185749877-762ee0e5-583b-4993-9acf-95c02ea3f3cc.png)
