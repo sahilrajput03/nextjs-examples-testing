@@ -1,6 +1,11 @@
 # My Nextjs testing arena
 
-## Checking development and production mode in nextjs
+## We can change port for nextjs development server like that
+
+![image](https://user-images.githubusercontent.com/31458531/185983777-88e38813-707c-4309-963a-20dcfae410b9.png)
+
+
+## Runtime Checking development and production mode in nextjs
 
 ![image](https://user-images.githubusercontent.com/31458531/185982278-9f37a150-f777-4fe9-9fdc-afb06aabe9d0.png)
 
