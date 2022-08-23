@@ -2,6 +2,8 @@
 
 ## using environment variables with nextjs
 
+Source: [nextjs docs](https://nextjs.org/docs/basic-features/environment-variables)
+
 ![image](https://user-images.githubusercontent.com/31458531/186137800-37b7972f-1679-49b5-ae8f-da65ea177570.png)
 
 ## next-auth
