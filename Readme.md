@@ -1,5 +1,9 @@
 # My Nextjs testing arena
 
+## using environment variables with nextjs
+
+![image](https://user-images.githubusercontent.com/31458531/186137800-37b7972f-1679-49b5-ae8f-da65ea177570.png)
+
 ## next-auth
 
 src: [Authentication: It’s Easier Than You Think](https://www.youtube.com/watch?v=h6wBYWWdyYQ&t=6s)
