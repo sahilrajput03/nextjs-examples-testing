@@ -8,6 +8,10 @@ most probably in nextauth IMO: ![image](https://user-images.githubusercontent.co
 
 ![image](https://user-images.githubusercontent.com/31458531/186127362-eeec045d-a762-4286-b050-f30e6ad302ae.png)
 
+Redirect to `/login` page if you are not logged in:
+
+![image](https://user-images.githubusercontent.com/31458531/186128057-966ffca9-c2f3-4926-9fda-f5e252d1e941.png)
+
 
 
 ## Thats how you get query parameter in nextjs
