@@ -1,6 +1,6 @@
 # My Nextjs testing arena
 
-## next-auth ??
+## next-auth
 
 src: [Authentication: It’s Easier Than You Think](https://www.youtube.com/watch?v=h6wBYWWdyYQ&t=6s)
 
