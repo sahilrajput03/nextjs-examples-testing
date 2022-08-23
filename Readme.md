@@ -13,6 +13,9 @@
 
 *Disclaimer: `width` and `height` property given directly to `<Image height='' width='' />` doesn't work in my experience. ~Sahil
 
+![image](https://user-images.githubusercontent.com/31458531/186112203-fc1d7e25-6159-478e-823d-780f25f9ebb5.png)
+
+
 ![image](https://user-images.githubusercontent.com/31458531/185975784-c0297c80-54ca-4068-b400-1caefa5b5ba7.png)
 
 
