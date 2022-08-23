@@ -1,5 +1,12 @@
 # My Nextjs testing arena
 
+## next-auth ??
+
+src: https://www.youtube.com/watch?v=h6wBYWWdyYQ&t=6s
+
+most probably in nextauth IMO: ![image](https://user-images.githubusercontent.com/31458531/186127177-af950f82-83bb-4a26-a943-2ce7f92cb791.png)
+
+
 ## Thats how you get query parameter in nextjs
 
 ![image](https://user-images.githubusercontent.com/31458531/186112970-39615145-5928-4108-919d-056370e0560c.png)
