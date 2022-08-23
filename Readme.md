@@ -12,6 +12,7 @@ Redirect to `/login` page if you are not logged in:
 
 ![image](https://user-images.githubusercontent.com/31458531/186128057-966ffca9-c2f3-4926-9fda-f5e252d1e941.png)
 
+![image](https://user-images.githubusercontent.com/31458531/186129411-15ef18d2-ae51-4714-ad3a-ee33dbd0c8ae.png)
 
 
 ## Thats how you get query parameter in nextjs
