@@ -1,5 +1,10 @@
 # My Nextjs testing arena
 
+## Thats how you get query parameter in nextjs
+
+![image](https://user-images.githubusercontent.com/31458531/186112970-39615145-5928-4108-919d-056370e0560c.png)
+
+
 ## We can change port for nextjs development server like that
 
 ![image](https://user-images.githubusercontent.com/31458531/185983777-88e38813-707c-4309-963a-20dcfae410b9.png)
