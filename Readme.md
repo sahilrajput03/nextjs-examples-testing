@@ -1,5 +1,9 @@
 # My Nextjs testing arena
 
+## Css modules are actually good (setup by default)
+
+![image](https://user-images.githubusercontent.com/31458531/186703589-f2368235-8af1-4676-9e03-f79d9bfa669a.png)
+
 ## Best/Only possible way to apply styles to `Image` components of Nextjs
 
 ![image](https://user-images.githubusercontent.com/31458531/186674764-fb4c37e9-beca-4e8c-8527-a97b236034a2.png)
