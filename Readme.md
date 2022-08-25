@@ -1,5 +1,10 @@
 # My Nextjs testing arena
 
+## Best/Only possible way to apply styles to `Image` components of Nextjs
+
+![image](https://user-images.githubusercontent.com/31458531/186674764-fb4c37e9-beca-4e8c-8527-a97b236034a2.png)
+
+
 ## using environment variables with nextjs
 
 Source: [nextjs docs](https://nextjs.org/docs/basic-features/environment-variables)
