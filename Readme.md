@@ -1,5 +1,21 @@
 # My Nextjs testing arena
 
+## Using `<Image />` component in nextjs TAKE: FINAL, 4 Sep, 2022
+
+- **How to use `Image` comp?:**
+
+  ![image](https://user-images.githubusercontent.com/31458531/188314261-8a933e6c-f967-4a30-a053-ac32d5e49150.png)
+
+- **Why you should use `Image` component in nextjs:**
+  - sourc1: https://youtu.be/ZRZngn_GdXY
+  - source2: https://youtu.be/h0gj4gOjz44
+- TLDR:
+  - It provides lazy loading i.e., only the images on the screen are loaded and subsequent are loaded on scroll.
+  - Images are converted to `webp` format (optimized for web) automatically thus extremely reduced size of images
+  - fixes layout shifts as well
+
+
+
 ## Css modules are actually good (setup by default)
 
 ![image](https://user-images.githubusercontent.com/31458531/186703589-f2368235-8af1-4676-9e03-f79d9bfa669a.png)
