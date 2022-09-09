@@ -1,5 +1,9 @@
 # My Nextjs testing arena
 
+**Pinned:**
+- Examples: https://nextjs.org/examples
+- Showcase: https://nextjs.org/showcase
+
 ## Using `<Image />` component in nextjs TAKE: FINAL, 4 Sep, 2022
 
 - **How to use `Image` comp?:**
