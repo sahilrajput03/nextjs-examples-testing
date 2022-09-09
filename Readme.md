@@ -4,6 +4,13 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## Using react context in nextjs
+
+Source: [Netlify Article](https://www.netlify.com/blog/2020/12/01/using-react-context-for-state-management-in-next.js/)
+
+![image](https://user-images.githubusercontent.com/31458531/189399097-5d2ffb35-0539-4740-84b3-47c717579ccf.png)
+
+
 ## Running browser specific code should go in `onMount` effect like that:
 
 ![image](https://user-images.githubusercontent.com/31458531/189397306-d32cf6ff-aad0-432d-8219-0bd84f983117.png)
