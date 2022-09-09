@@ -4,6 +4,11 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## Running browser specific code should go in `onMount` effect like that:
+
+![image](https://user-images.githubusercontent.com/31458531/189397306-d32cf6ff-aad0-432d-8219-0bd84f983117.png)
+
+
 ## Using `<Image />` component in nextjs TAKE: FINAL, 4 Sep, 2022
 
 - **How to use `Image` comp?:**
