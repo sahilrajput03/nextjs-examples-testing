@@ -34,6 +34,8 @@ Source: [Netlify Article](https://www.netlify.com/blog/2020/12/01/using-react-co
 
 ## Css modules are actually good (setup by default)
 
+Why css modules? Amzing article by `css-tricks`: https://css-tricks.com/css-modules-part-1-need/
+
 ![image](https://user-images.githubusercontent.com/31458531/186703589-f2368235-8af1-4676-9e03-f79d9bfa669a.png)
 
 ## Best/Only possible way to apply styles to `Image` components of Nextjs
