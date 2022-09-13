@@ -4,6 +4,12 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## router, routing, etc
+
+1 - https://nextjs.org/docs/api-reference/next/router
+2 - https://nextjs.org/docs/routing/introduction
+
+
 ## Using react context in nextjs
 
 Source: [Netlify Article](https://www.netlify.com/blog/2020/12/01/using-react-context-for-state-management-in-next.js/)
