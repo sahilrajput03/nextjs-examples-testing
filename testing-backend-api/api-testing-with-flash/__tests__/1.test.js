@@ -24,7 +24,7 @@ describe('/api/hello', () => {
 			age: 13,
 		}
 
-		const {res} = await helloApiCaller((req) => {
+		const {req, res} = await helloApiCaller((req) => {
 			req.headers = {
 				'Content-Type': 'application/json',
 				'X-SESSION-TOKEN': authToken,
