@@ -8,5 +8,5 @@
 
 
 `next-test-api-route-handler` or `ntarh`
-  - TODO: Try this library handson
+  - `ntarh`'s author is too rigid about using `node-fetch` for calling the api and doesn't allow flexibility to use `axios` instead of that. Visit [this discussion](https://github.com/Xunnamius/next-test-api-route-handler/discussions/172) to know about this.
   - [npm](https://www.npmjs.com/package/next-test-api-route-handler), [github](https://github.com/Xunnamius/next-test-api-route-handler)
