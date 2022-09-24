@@ -2,6 +2,7 @@
 /**
  * @jest-environment node
  */
+// MOTIVATION, INSPIRATION: https://www.paigeniedringhaus.com/blog/how-to-unit-test-next-js-api-routes-with-typescript
 const {createMocks} = require('node-mocks-http')
 const helloApi = require('../pages/api/hello')
 const {expect} = require('expect')
