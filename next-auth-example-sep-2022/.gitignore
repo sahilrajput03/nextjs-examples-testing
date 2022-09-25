@@ -105,7 +105,6 @@ dist
 
 .vercel
 .now
-# Keeping this to have values be encrypted inside the repo itself for eaiser accessiblity. ~Sahil
 .env.local
 
 .DS_Store
