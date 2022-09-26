@@ -7,7 +7,7 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"test": "cd __tests__; tsc; fr .tests/__tests__/1.test.js",
+		"test": "cd __tests__; tsc; cd ..; fr .tests/__tests__/1.test.js",
 		"test-watch": "fr -w .tests/__tests__/1.test.js",
 		"test-watch-compiler": "cd __tests__; tsc -w"
 	},
