@@ -9,6 +9,18 @@
 1 - https://nextjs.org/docs/api-reference/next/router
 2 - https://nextjs.org/docs/routing/introduction
 
+## Using bootstrap v5 in nextjs
+
+Source: [Click here](https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2)
+
+```js
+// Adding bootstrap to nextjs project? Source: https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2
+// Step1: Install bootstrap: `npm i bootstrap` to nextjs project.
+// Step2: Add `import 'bootstrap/dist/css/bootstrap.css'` to `_app.js` file.
+// Step3: Add `useEffect(() => {import('bootstrap/dist/js/bootstrap')}, [])` to `_app.js` file.
+
+```
+
 
 ## Using react context in nextjs
 
