@@ -23,6 +23,8 @@ Source: [Click here](https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2
 
 ## To make absolute imports work in vscode you must have this
 
+After doing that vscode should no longer complain about module not found like errors. ~Sahil
+
 ![image](https://user-images.githubusercontent.com/31458531/195992560-3c15e7a5-8ee2-4aff-be09-99a11273b38e.png)
 
 
