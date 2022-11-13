@@ -4,7 +4,7 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
-## client only
+## ClientOnly
 
 ```js
 import React from 'react'
