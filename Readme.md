@@ -4,6 +4,23 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## client only
+
+```js
+import React from 'react'
+
+export default function ClientOnly({children, ...delegated}) {
+	const [hasMounted, setHasMounted] = React.useState(false);
+	React.useEffect(() => {
+		setHasMounted(true);
+	}, []);
+	if (!hasMounted) {
+		return null;
+	}
+	return <div {...delegated}>{children}</div>;
+}
+```
+
 ## router, routing, etc
 
 1 - https://nextjs.org/docs/api-reference/next/router
