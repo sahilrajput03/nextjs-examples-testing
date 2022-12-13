@@ -6,6 +6,10 @@
 
 ## Using turbo pack in next 13 for testing extremely fast bundling
 
+Q. Why turbopack and not webpack?
+
+Ans. Becoz creator of webpack works @ verce itself and he's hepling to make turbopack better along with the learnings of webpack.
+
 Source: What is Turbopack? by Vercel: [Click here](https://www.youtube.com/watch?v=6ZwnBI4Rb1w)
 
 ```json
