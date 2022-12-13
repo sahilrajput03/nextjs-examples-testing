@@ -4,6 +4,16 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## Using turbo pack in next 13 for testing extremely fast bundling
+
+Source: What is Turbopack? by Vercel: [Click here](https://www.youtube.com/watch?v=6ZwnBI4Rb1w)
+
+```json
+"dev": "next dev --turbo",
+```
+
+
+
 ## ClientOnly
 
 ```js
