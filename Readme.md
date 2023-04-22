@@ -6,7 +6,8 @@
 
 ## Using expressjs with nextjs?
 
-[sahilrajput03/expressjs-vercel-example](https://github.com/sahilrajput03/expressjs-vercel-example)
+- [sahilrajput03/expressjs-vercel-example](https://github.com/sahilrajput03/expressjs-vercel-example) (latest attempt to run it, please read the readme of the project)
+- [sahilrajput03/nextjs-examples-testing/tree/master/custom-server-express](https://github.com/sahilrajput03/nextjs-examples-testing/tree/master/custom-server-express)
 
 ## Using turbo pack in next 13 for testing extremely fast bundling
 
