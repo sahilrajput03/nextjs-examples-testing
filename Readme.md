@@ -4,6 +4,10 @@
 - Examples: https://nextjs.org/examples
 - Showcase: https://nextjs.org/showcase
 
+## Using expressjs with nextjs?
+
+[sahilrajput03/expressjs-vercel-example](https://github.com/sahilrajput03/expressjs-vercel-example)
+
 ## Using turbo pack in next 13 for testing extremely fast bundling
 
 Q. Why turbopack and not webpack?
